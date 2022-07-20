@@ -21,7 +21,7 @@ When viewing the data trend from Figure 1:
 * Suburban cities seem to be excelerating in May, this could be due to school being out in the summer and would require further analysis
 
 Figure 2:  PyBer Fare by City-Type Dataframe Summary
-
+![image](https://user-images.githubusercontent.com/101227930/179923147-ae7efcbf-435e-4676-b17d-4ea6a4439ab0.png)
 
 When viewing the data table from Figure 2:
 
