@@ -11,7 +11,8 @@ PyBer Analysis Results:
 The analysis of the PyBer fare by city-type highlight the following differences in ride-sharing data among the different city types:
 
 Figure 1: PyBer Fare City-Type Graph
-https://github.com/ehawkins0631/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb
+![image](https://user-images.githubusercontent.com/101227930/179923000-211f00db-5282-4097-83b5-de5427a28cbd.png)
+
 
 When viewing the data trend from Figure 1:
 
