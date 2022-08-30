@@ -5,7 +5,17 @@ Create a visual data analysis that compares total fares over time. The total far
 
 Resources
 * Data Source: city_data.csv, ride_data.csv
-* Software: Python 3.7, Jupyter Notebooks, Matplotlib
+* Software: 
+	PythonData Environment
+	Anaconda version 1.7.2
+	Conda version 4.9.0
+	Jupyter-Notebook version 6.1.4
+	ipykernal version 5.3.4
+	Python version 3.7.7
+	Pandas version 1.1.3
+	Numpy version 1.19.1
+	Matplotlib version 3.3.2
+	GitBash version 2.28.0.windows.1
 
 PyBer Analysis Results:
 The analysis of the PyBer fare by city-type highlight the following differences in ride-sharing data among the different city types:
