@@ -21,6 +21,8 @@ PyBer Analysis Results:
 The analysis of the PyBer fare by city-type highlight the following differences in ride-sharing data among the different city types:
 
 Figure 1: PyBer Fare City-Type Graph
+![image](https://user-images.githubusercontent.com/101227930/179923000-211f00db-5282-4097-83b5-de5427a28cbd.png)
+
 
 When viewing the data trend from Figure 1:
 
@@ -29,7 +31,7 @@ When viewing the data trend from Figure 1:
 * Suburban cities seem to be excelerating in May, this could be due to school being out in the summer and would require further analysis
 
 Figure 2:  PyBer Fare by City-Type Dataframe Summary
-
+![image](https://user-images.githubusercontent.com/101227930/179923147-ae7efcbf-435e-4676-b17d-4ea6a4439ab0.png)
 
 When viewing the data table from Figure 2:
 
