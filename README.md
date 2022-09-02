@@ -47,3 +47,12 @@ Decrease the amount of Urban Drivers by placing limits on the time allowed betwe
 Start advertising in Suburban cities during the lead-up to summer, where most families have more time to travel.
 Keep Rural driver counts strong by incentivising, through advertising, the higher average fare per driver in rural cities.
 Collect data on distance of ride, it could be that urban and suburban rides are significally longer, thus disincentivising rider count for these areas.
+
+
+
+email:  ehawkins0631@gmail.com
+
+twitter: @evahawkins0630
+
+https://www.linkedin.com/in/eva-hawkins-a9b333147/
+
